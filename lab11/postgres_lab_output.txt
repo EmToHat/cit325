@@ -1,0 +1,72 @@
+CREATE FUNCTION
+ Return Value 
+--------------
+         1001
+(1 row)
+
+CREATE FUNCTION
+ Return System Value 
+---------------------
+                1001
+                1002
+                1003
+                1004
+                1005
+(5 rows)
+
+CREATE FUNCTION
+ Return Lookup Value 
+---------------------
+                1001
+                1002
+                1003
+                1004
+                1006
+                1007
+                1008
+                1009
+                1010
+                1011
+                1012
+                1015
+                1016
+                1017
+                1018
+                1019
+                1020
+                1021
+                1022
+                1023
+                1024
+                1025
+(22 rows)
+
+psql:postgres_lab9.sql:198: NOTICE:  procedure contact_insert(pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.varchar,pg_catalog.int4,pg_catalog.int4) does not exist, skipping
+DROP PROCEDURE
+DROP PROCEDURE
+CREATE PROCEDURE
+DO
+DO
+ acct_no |    full_name    |   mtype    |  ctype   | atype |                
+    address                     | type |    telephone     
+---------+-----------------+------------+----------+-------+----------------
+--------------------------------+------+------------------
+ US00010 | Lensherr, Erik  | INDIVIDUAL | CUSTOMER | HOME  | 1407 Graymalkin
+ Lane, Bayville, New York 10032 | HOME | 001.207.111-1234
+(1 row)
+
+DROP PROCEDURE
+CREATE PROCEDURE
+DO
+DO
+ acct_no |    full_name     |   mtype    |  ctype   | atype |               
+     address                     | type |    telephone     
+---------+------------------+------------+----------+-------+---------------
+---------------------------------+------+------------------
+ US00010 | Lensherr, Erik   | INDIVIDUAL | CUSTOMER | HOME  | 1407 Graymalki
+n Lane, Bayville, New York 10032 | HOME | 001.207.111-1234
+ US00010 | Xavier, Charles  | INDIVIDUAL | CUSTOMER | HOME  | 1407 Graymalki
+n Lane, Bayville, New York 10032 | HOME | 001.207.111-1234
+ US00010 | McCoy, Henry     | INDIVIDUAL | CUSTOMER | HOME  | 1407 Graymalki
+n Lane, Bayville, New York 10032 | HOME | 001.207.111-1234
+(3 rows)

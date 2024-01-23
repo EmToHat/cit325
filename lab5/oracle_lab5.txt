@@ -1,0 +1,309 @@
+SQL> @oracle_lab5.sql
+
+Type created.
+
+
+Type created.
+
+CREATE OR REPLACE TYPE lyric IS OBJECT (day VARCHAR2(8), gift VARCHAR2(24));
+*
+ERROR at line 1:
+ORA-02303: cannot drop or replace a type with type or table dependents
+
+
+
+Type created.
+
+
+Function created.
+
+
+12-Days of Christmas
+------------------------------------
+On the first day of Christmas
+my true love sent to me:
+Partridge in a pear tree
+
+On the second day of Christmas
+my true love sent to me:
+Turtle doves
+and a Partridge in a pear tree
+
+On the third day of Christmas
+my true love sent to me:
+
+12-Days of Christmas
+------------------------------------
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+On the fourth day of Christmas
+my true love sent to me:
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+
+12-Days of Christmas
+------------------------------------
+On the fifth day of Christmas
+my true love sent to me:
+Golden rings
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+On the sixth day of Christmas
+my true love sent to me:
+Geese a laying
+
+12-Days of Christmas
+------------------------------------
+Golden rings
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+On the seventh day of Christmas
+my true love sent to me:
+Swans a swimming
+Geese a laying
+Golden rings
+
+12-Days of Christmas
+------------------------------------
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+On the eighth day of Christmas
+my true love sent to me:
+Maids a milking
+Swans a swimming
+Geese a laying
+Golden rings
+
+12-Days of Christmas
+------------------------------------
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+On the nineth day of Christmas
+my true love sent to me:
+Ladies dancing
+Maids a milking
+Swans a swimming
+Geese a laying
+
+12-Days of Christmas
+------------------------------------
+Golden rings
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+On the tenth day of Christmas
+my true love sent to me:
+Lords a leaping
+Ladies dancing
+Maids a milking
+
+12-Days of Christmas
+------------------------------------
+Swans a swimming
+Geese a laying
+Golden rings
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+On the eleventh day of Christmas
+my true love sent to me:
+Pipers piping
+
+12-Days of Christmas
+------------------------------------
+Lords a leaping
+Ladies dancing
+Maids a milking
+Swans a swimming
+Geese a laying
+Golden rings
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+
+12-Days of Christmas
+------------------------------------
+On the twelfth day of Christmas
+my true love sent to me:
+Drummers drumming
+Pipers piping
+Lords a leaping
+Ladies dancing
+Maids a milking
+Swans a swimming
+Geese a laying
+Golden rings
+Calling birds
+
+12-Days of Christmas
+------------------------------------
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+
+114 rows selected.
+
+On the first day of Christmas
+my true love sent to me:
+Partridge in a pear tree
+
+
+
+On the second day of Christmas
+my true love sent to me:
+Turtle doves
+and a Partridge in a pear tree
+
+
+
+On the third day of Christmas
+my true love sent to me:
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+
+
+On the fourth day of Christmas
+my true love sent to me:
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+
+
+On the fifth day of Christmas
+my true love sent to me:
+Golden rings
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+
+
+On the sixth day of Christmas
+my true love sent to me:
+Geese a laying
+Golden rings
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+
+
+On the seventh day of Christmas
+my true love sent to me:
+Swans a swimming
+Geese a laying
+Golden rings
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+
+
+On the eighth day of Christmas
+my true love sent to me:
+Maids a milking
+Swans a swimming
+Geese a laying
+Golden rings
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+
+
+On the nineth day of Christmas
+my true love sent to me:
+Ladies dancing
+Maids a milking
+Swans a swimming
+Geese a laying
+Golden rings
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+
+
+On the tenth day of Christmas
+my true love sent to me:
+Lords a leaping
+Ladies dancing
+Maids a milking
+Swans a swimming
+Geese a laying
+Golden rings
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+
+
+On the eleventh day of Christmas
+my true love sent to me:
+Pipers piping
+Lords a leaping
+Ladies dancing
+Maids a milking
+Swans a swimming
+Geese a laying
+Golden rings
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+
+
+On the twelfth day of Christmas
+my true love sent to me:
+Drummers drumming
+Pipers piping
+Lords a leaping
+Ladies dancing
+Maids a milking
+Swans a swimming
+Geese a laying
+Golden rings
+Calling birds
+French hens
+Turtle doves
+and a Partridge in a pear tree
+
+
+
+
+PL/SQL procedure successfully completed.

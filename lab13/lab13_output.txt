@@ -1,0 +1,15 @@
+Messages
+
+NOTICE:  drop cascades to trigger contact_t on table contact
+NOTICE:  Inserting into contact_log: CONTACT_T, BEFORE, UPDATE, FOR EACH ROW, Smith-Wyse, Smith Wyse
+NOTICE:  Attempting to update: Smith Wyse
+
+Successfully run. Total query runtime: 122 msec.
+1 rows affected.
+
+
+
+Data Output
+
+full_name
+Smith Wyse, Samuel

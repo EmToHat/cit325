@@ -1,0 +1,31 @@
+SQL> @oracle_lab6.sql
+
+Function created.
+
+True.
+False.
+False.
+True.
+
+PL/SQL procedure successfully completed.
+
+
+Type created.
+
+CREATE OR REPLACE TYPE struct IS OBJECT (
+*
+ERROR at line 1:
+ORA-02303: cannot drop or replace a type with type or table dependents
+
+
+
+Type created.
+
+
+Function created.
+
+xstring []
+xdate [16-APR-2018]
+xnumber [1040]
+
+PL/SQL procedure successfully completed.

@@ -1,0 +1,33 @@
+SQL> @oracle_lab8_prep.sql
+
+PL/SQL procedure successfully completed.
+
+
+Table created.
+
+
+Sequence created.
+
+
+PL/SQL procedure successfully completed.
+
+
+Table created.
+
+
+Sequence created.
+
+
+Procedure created.
+
+
+PL/SQL procedure successfully completed.
+
+
+ Grandma		       Tweetie
+    ID # Grandma House	       Bird ID Tweetie Bird House
+-------- -------------------- -------- --------------------
+       1 Yellow House		     1 Cage
+       1 Yellow House		     2 Tree House
+
+2 rows selected.

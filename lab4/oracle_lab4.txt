@@ -1,0 +1,7 @@
+Function NPV dropped.
+
+Function NPV compiled
+
+The result [1242.89].
+
+PL/SQL procedure successfully completed.

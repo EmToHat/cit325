@@ -1,0 +1,115 @@
+NOTICE:  On the first day of Christmas
+NOTICE:  my true love sent to me:
+NOTICE:  -A Partridge in a pear tree
+NOTICE:  
+NOTICE:  On the second day of Christmas
+NOTICE:  my true love sent to me:
+NOTICE:  -Turtle doves
+NOTICE:  -Partridge in a pear tree
+NOTICE:  
+NOTICE:  On the third day of Christmas
+NOTICE:  my true love sent to me:
+NOTICE:  -French hens
+NOTICE:  -Turtle doves
+NOTICE:  -Partridge in a pear tree
+NOTICE:  
+NOTICE:  On the fourth day of Christmas
+NOTICE:  my true love sent to me:
+NOTICE:  -Calling birds
+NOTICE:  -French hens
+NOTICE:  -Turtle doves
+NOTICE:  -Partridge in a pear tree
+NOTICE:  
+NOTICE:  On the fifth day of Christmas
+NOTICE:  my true love sent to me:
+NOTICE:  -Golden rings
+NOTICE:  -Calling birds
+NOTICE:  -French hens
+NOTICE:  -Turtle doves
+NOTICE:  -Partridge in a pear tree
+NOTICE:  
+NOTICE:  On the sixth day of Christmas
+NOTICE:  my true love sent to me:
+NOTICE:  -Geese a laying
+NOTICE:  -Golden rings
+NOTICE:  -Calling birds
+NOTICE:  -French hens
+NOTICE:  -Turtle doves
+NOTICE:  -Partridge in a pear tree
+NOTICE:  
+NOTICE:  On the seventh day of Christmas
+NOTICE:  my true love sent to me:
+NOTICE:  -Swans a swimming
+NOTICE:  -Geese a laying
+NOTICE:  -Golden rings
+NOTICE:  -Calling birds
+NOTICE:  -French hens
+NOTICE:  -Turtle doves
+NOTICE:  -Partridge in a pear tree
+NOTICE:  
+NOTICE:  On the eighth day of Christmas
+NOTICE:  my true love sent to me:
+NOTICE:  -Maids a milking
+NOTICE:  -Swans a swimming
+NOTICE:  -Geese a laying
+NOTICE:  -Golden rings
+NOTICE:  -Calling birds
+NOTICE:  -French hens
+NOTICE:  -Turtle doves
+NOTICE:  -Partridge in a pear tree
+NOTICE:  
+NOTICE:  On the nineth day of Christmas
+NOTICE:  my true love sent to me:
+NOTICE:  -Ladies dancing
+NOTICE:  -Maids a milking
+NOTICE:  -Swans a swimming
+NOTICE:  -Geese a laying
+NOTICE:  -Golden rings
+NOTICE:  -Calling birds
+NOTICE:  -French hens
+NOTICE:  -Turtle doves
+NOTICE:  -Partridge in a pear tree
+NOTICE:  
+NOTICE:  On the tenth day of Christmas
+NOTICE:  my true love sent to me:
+NOTICE:  -Lords a leaping
+NOTICE:  -Ladies dancing
+NOTICE:  -Maids a milking
+NOTICE:  -Swans a swimming
+NOTICE:  -Geese a laying
+NOTICE:  -Golden rings
+NOTICE:  -Calling birds
+NOTICE:  -French hens
+NOTICE:  -Turtle doves
+NOTICE:  -Partridge in a pear tree
+NOTICE:  
+NOTICE:  On the eleventh day of Christmas
+NOTICE:  my true love sent to me:
+NOTICE:  -Pipers piping
+NOTICE:  -Lords a leaping
+NOTICE:  -Ladies dancing
+NOTICE:  -Maids a milking
+NOTICE:  -Swans a swimming
+NOTICE:  -Geese a laying
+NOTICE:  -Golden rings
+NOTICE:  -Calling birds
+NOTICE:  -French hens
+NOTICE:  -Turtle doves
+NOTICE:  -Partridge in a pear tree
+NOTICE:  
+NOTICE:  On the twelfth day of Christmas
+NOTICE:  my true love sent to me:
+NOTICE:  -Drummers drumming
+NOTICE:  -Pipers piping
+NOTICE:  -Lords a leaping
+NOTICE:  -Ladies dancing
+NOTICE:  -Maids a milking
+NOTICE:  -Swans a swimming
+NOTICE:  -Geese a laying
+NOTICE:  -Golden rings
+NOTICE:  -Calling birds
+NOTICE:  -French hens
+NOTICE:  -Turtle doves
+NOTICE:  -Partridge in a pear tree
+NOTICE:  
+DO

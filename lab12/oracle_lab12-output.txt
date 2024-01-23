@@ -1,0 +1,73 @@
+
+0 rows deleted.
+
+
+0 rows deleted.
+
+Failed to drop trigger                                                          
+
+PL/SQL procedure successfully completed.
+
+
+PL/SQL procedure successfully completed.
+
+
+PL/SQL procedure successfully completed.
+
+
+Table created.
+
+DROP SEQUENCE contact_log_seq
+              *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
+
+
+
+Sequence created.
+
+
+Procedure created.
+
+
+Trigger created.
+
+
+1 row created.
+
+
+Last Name                                                                       
+--------------                                                                  
+Smith-Wyse                                                                      
+
+1 row selected.
+
+UPDATE contact
+       *
+ERROR at line 1:
+ORA-20001: Whitespace replaced with hyphen.
+ORA-06512: at "STUDENT.CONTACT_T", line 13
+ORA-04088: error during execution of trigger 'STUDENT.CONTACT_T' 
+
+
+
+TRIGGER_NAME                                                                    
+--------------------------------------------------------------------------------
+TRIGGE OLD_LAST_NAM NEW_LAST_NAM                                                
+------ ------------ ------------                                                
+CONTACT_T                                                                       
+BEFORE <Null>       Smith-Wyse                                                  
+                                                                                
+CONTACT_T                                                                       
+BEFORE Smith-Wyse   Smith Wyse                                                  
+                                                                                
+
+2 rows selected.
+
+
+FULL_NAME                                                                       
+----------------                                                                
+Smith-Wyse, Samuel                                                                              
+                                                                                
+
+1 row selected.

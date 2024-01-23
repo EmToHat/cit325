@@ -1,0 +1,25 @@
+SQL> @oracle_lab8.sql
+
+Warning: Procedure created with compilation errors.
+
+
+0 rows updated.
+
+
+PL/SQL procedure successfully completed.
+
+  insert_contact(
+  *
+ERROR at line 2:
+ORA-06550: line 2, column 3:
+PLS-00905: object STUDENT.INSERT_CONTACT is invalid
+ORA-06550: line 2, column 3:
+PL/SQL: Statement ignored
+ORA-06550: line 23, column 3:
+PLS-00905: object STUDENT.INSERT_CONTACT is invalid
+ORA-06550: line 23, column 3:
+PL/SQL: Statement ignored
+
+
+
+no rows selected

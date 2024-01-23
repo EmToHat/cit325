@@ -1,0 +1,70 @@
+Table dropped.
+
+
+Table created.
+
+
+Sequence dropped.
+
+
+Sequence created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+Type dropped.
+
+
+Type dropped.
+
+
+Type created.
+
+
+Type created.
+
+
+Function dropped.
+
+
+Function created.
+
+
+CONQUISTADOR	      ACTUAL_NAME		             NATIONALITY
+--------------------- ------------------------------ ---------------------
+Nicolás de Federmán   Nikolaus Federmann             German
+Jorge de la Espira    Georg von Speyer		         German
+
+
+View created.
+
+
+CONQUISTADOR	      ACTUAL_NAME		             NATIONALITY
+--------------------- ------------------------------ ---------------------
+Nicolás de Federmán   Nikolaus Federmann             German
+Jorge de la Espira    Georg von Speyer		         German

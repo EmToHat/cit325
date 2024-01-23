@@ -1,0 +1,10 @@
+DATA OUTPUT
+CONQUISTADOR          ACTUAL_NAME           NATIONALITY
+--------------------- --------------------- ------------
+Nicolás de Federmán   Nikolaus Federmann    German
+Jorge de la Espira    Georg von Speyer      German
+
+
+MESSAGES
+Successfully run. Total query runtime: 349 msec.
+2 rows affected.

@@ -1,0 +1,4 @@
+NOTICE:  The result [1242.89].
+DO
+
+Query returned successfully in 252 msec.
